@@ -1,0 +1,23 @@
+.expenses-list__fallback {
+    color:white;
+    text-align:center;
+}
+
+.expenses-list {
+    list-style: none;
+    padding:0;
+}
+
+.expenses-list button {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.7rem;
+    border: 1px solid #fff;
+    background-color: #d46110;
+    color: white;
+    border-radius: 0.8rem;
+    margin-right: 1rem;
+    font-weight: bold;
+    margin-left: 2rem;
+    text-align: center;
+}
